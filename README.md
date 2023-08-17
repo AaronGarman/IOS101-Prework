@@ -28,12 +28,12 @@ GIF created with LICEcap
 
 ## App Brainstorming (Step 4)
 
-#My favorite applications are:
+# My favorite applications are:
 
 1. Instagram
-   -allows user to easily like and comment on other's posts
-   -provides recommended content from accounts a user does not follow
-   -user stories for shorter posts that can be easily seen
+   - allows user to easily like and comment on other's posts
+   - provides recommended content from accounts a user does not follow
+   - user stories for shorter posts that can be easily seen
 2. Twitter
    -allows user to search for content easily
    -provides recommended content from accounts a user does not follow
