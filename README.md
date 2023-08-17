@@ -28,6 +28,27 @@ GIF created with LICEcap
 
 ## App Brainstorming (Step 4)
 
+#My favorite applications are:
+
+1. Instagram
+   -allows user to easily like and comment on other's posts
+   -provides recommended content from accounts a user does not follow
+   -user stories for shorter posts that can be easily seen
+2. Twitter
+   -allows user to search for content easily
+   -provides recommended content from accounts a user does not follow
+3. ESPN
+   -allows users to mark teams as favorites to access them faster
+   -live updates to show users what is happening during a game
+   -News articles about current events in sports
+4. Spotify
+   -gives recommendations for music that a user might like
+   -playlist of most played songs recently and annually
+   -allows user to download music and listen to it offline
+5. Discord
+   -allows servers so that users can post messages and content in a group
+   -allows many types of messaging from direct messaging, group messaging, and voice chat
+
 ## Notes
 
 Describe any challenges encountered while building the app.
