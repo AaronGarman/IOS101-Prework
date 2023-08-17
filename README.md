@@ -49,6 +49,10 @@ GIF created with LICEcap
    - allows servers so that users can post messages and content in a group
    - allows many types of messaging from direct messaging, group messaging, and voice chat
 
+### App idea
+
+An app that I would like to build is an app that allows users to plan and track their basketball workouts. It would be a CRUD type app that lets users create and edit entries for workouts they plan to do. the app would also allow them to see statistics about their progress. This could involve inputting and tracking weight/time numbers to see progress over time and also basketball specific statistics such as percentage of shots made from different ranges. I would want the user interface to be easy and intuitive so that users have an easy time using and navigating the app.
+
 ## Notes
 
 Describe any challenges encountered while building the app.
