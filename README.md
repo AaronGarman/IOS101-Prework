@@ -28,7 +28,7 @@ GIF created with LICEcap
 
 ## App Brainstorming (Step 4)
 
-#### My favorite applications are:
+### My favorite applications are:
 
 1. Instagram
    - allows user to easily like and comment on other's posts
